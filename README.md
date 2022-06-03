@@ -1,4 +1,4 @@
-# week1resources
+# Week 1 Resources
 
 
 ## Web Dev
