@@ -4,12 +4,10 @@
 ## Web Dev
 
 - [HTML, CSS, JS explained](https://www.youtube.com/watch?v=gT0Lh1eYk78)
-- [Flexbox](https://flexboxfroggy.com/)
+- [HTML, CSS, JS Tutorials from HTML Dog](https://htmldog.com/guides/)
+- [CSS Flexbox](https://flexboxfroggy.com/)
 - [CSS Grid](https://cssgridgarden.com/)
 
-
-
-## How to Write Markdown
 
 
 
