@@ -7,7 +7,7 @@
 - [HTML, CSS, JS Tutorials from HTML Dog](https://htmldog.com/guides/)
 - [CSS Flexbox](https://flexboxfroggy.com/)
 - [CSS Grid](https://cssgridgarden.com/)
-
+- [CSS Tricks is a good website for useful css styling snippets](https://css-tricks.com/)
 
 
 
