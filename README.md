@@ -15,3 +15,4 @@
 - [Github cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [How to git merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
 - [How to reset your code after a faulty merge](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
+- [Adding gitignore files](https://github.com/github/gitignore)
