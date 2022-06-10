@@ -1,5 +1,7 @@
 # Week 1 Resources
 
+## Javascript fundamentals
+
 
 ## Web Dev
 
