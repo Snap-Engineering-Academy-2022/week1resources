@@ -1,7 +1,7 @@
 # Week 1 Resources
 
 ## Javascript fundamentals
-
+- [JavaScript Guide from Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 ## Web Dev
 
