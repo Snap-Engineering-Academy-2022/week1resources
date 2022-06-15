@@ -3,9 +3,14 @@
 ## Javascript fundamentals
 - [JavaScript Guide from Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-## Web Dev
 
-- [HTML, CSS, JS explained](https://www.youtube.com/watch?v=gT0Lh1eYk78)
+## Setting up VSCode
+- [Set up instructions here](https://code.visualstudio.com/docs/setup/mac)
+- [Launching VSCode from the command line](https://code.visualstudio.com/docs/setup/mac#:~:text=Launching%20from%20the%20command%20line,code'%20command%20in%20PATH%20command)
+
+## Web Dev
+- [HTML Cheat sheet](https://docs.emmet.io/cheat-sheet/)
+- [HTML, CSS, JS explained Video](https://www.youtube.com/watch?v=gT0Lh1eYk78)
 - [HTML, CSS, JS Tutorials from HTML Dog](https://htmldog.com/guides/)
 - [CSS Flexbox](https://flexboxfroggy.com/)
 - [CSS Grid](https://cssgridgarden.com/)
@@ -15,6 +20,7 @@
 
 
 ## Git
+- [Setting up a personal access token (you only need to do this once)](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 - [Step by step Git video](https://www.youtube.com/watch?v=RGOj5yH7evk)
 - [Github cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [How to git merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
