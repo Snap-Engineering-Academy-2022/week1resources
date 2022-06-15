@@ -4,6 +4,12 @@
 - [JavaScript Guide from Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 
+## Cool resources
+- [Fig autocomplete for terminal](https://fig.io/)
+- [Speechify for chrome <--- this reads webpages to you, really great for reading articles and documentation!](https://chrome.google.com/webstore/detail/speechify-text-to-speech/ljflmlehinmoeknoonhibbjpldiijjmm)
+- [Rectangle <-- program to easily resize windows using your keyboard, will CHANGE your life](https://rectangleapp.com/)
+
+
 ## Setting up VSCode
 - [Set up instructions here](https://code.visualstudio.com/docs/setup/mac)
 - [Launching VSCode from the command line](https://code.visualstudio.com/docs/setup/mac#:~:text=Launching%20from%20the%20command%20line,code'%20command%20in%20PATH%20command)
