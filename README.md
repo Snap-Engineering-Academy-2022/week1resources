@@ -30,3 +30,7 @@
 ## Markdown
 Markdown is a language that lets you create `.md` files, which contain formatted text/images. All of the READMEs on Github are `.md` files!
 - [Use this Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+
+## Cool programs / helpful extentions:
+- [Speechify for chrome](https://chrome.google.com/webstore/detail/speechify-text-to-speech/ljflmlehinmoeknoonhibbjpldiijjmm) <--- this reads webpages to you, really great for reading articles and documentation!
+- [Rectangle (download)](https://rectangleapp.com/) <---- program to easily resize windows using your keyboard, will CHANGE your life
