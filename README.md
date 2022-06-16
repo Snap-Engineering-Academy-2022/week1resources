@@ -13,6 +13,7 @@
 ## Setting up VSCode
 - [Set up instructions here](https://code.visualstudio.com/docs/setup/mac)
 - [Launching VSCode from the command line](https://code.visualstudio.com/docs/setup/mac#:~:text=Launching%20from%20the%20command%20line,code'%20command%20in%20PATH%20command)
+- [GitLens extension for VSCode](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ## Web Dev
 - [HTML Cheat sheet](https://docs.emmet.io/cheat-sheet/)
@@ -22,7 +23,6 @@
 - [CSS Grid](https://cssgridgarden.com/)
 - [CSS Tricks is a good website for useful css styling snippets](https://css-tricks.com/)
 - [Download this to format your code automatically in VSCode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
 
 
 ## Git
